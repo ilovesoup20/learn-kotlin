@@ -1,3 +1,5 @@
+package learnbyexamples
+
 /*
     Kotlin uses '==' for structural comparison and '===' for referential comparison
 
